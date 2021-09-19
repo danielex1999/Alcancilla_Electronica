@@ -1,4 +1,4 @@
-# Alcancilla_Electronica
+# Alcancilla Electronica
 Trabajo realizado en el programa "Arduino"
 
 Los 2 plomos son para prender la maquina, comprenle una especie de tapa, y ajustenlos ahi. No lo olviden uno es + y el
